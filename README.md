@@ -1,0 +1,3 @@
+# Language-Acquisition-App
+#New Github for the project. Problems came up when I ended up copying too many things and not needing them...
+# Will add better README soon.
